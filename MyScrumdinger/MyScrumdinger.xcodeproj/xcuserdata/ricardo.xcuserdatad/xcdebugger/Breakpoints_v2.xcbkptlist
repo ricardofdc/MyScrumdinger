@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3B9D4CE-E922-45CB-8922-B6A4B1554912"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBF9D781-13BE-4DF8-B9CE-577956C40BA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScrumdinger/MeetingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DBF9D781-13BE-4DF8-B9CE-577956C40BA0 - 782fb854c679a8ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScrumdinger.MeetingView.body.getter : some"
+                  moduleName = "MyScrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo/Desktop/iOSTutorials/MyScrumdinger/MyScrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1189">
+               </Location>
+               <Location
+                  uuid = "DBF9D781-13BE-4DF8-B9CE-577956C40BA0 - 5204b5816b76319e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in MyScrumdinger.MeetingView.body.getter : some"
+                  moduleName = "MyScrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo/Desktop/iOSTutorials/MyScrumdinger/MyScrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A090D694-EB1B-4631-AECF-CB0E35532043"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScrumdinger/MeetingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A090D694-EB1B-4631-AECF-CB0E35532043 - 5d7e9c33f7529b08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of MyScrumdinger.MeetingView.scrumTimer : MyScrumdinger.ScrumTimer"
+                  moduleName = "MyScrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo/Desktop/iOSTutorials/MyScrumdinger/MyScrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "A090D694-EB1B-4631-AECF-CB0E35532043 - e74e2408cb4f1e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScrumdinger.MeetingView.scrumTimer.getter : MyScrumdinger.ScrumTimer"
+                  moduleName = "MyScrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo/Desktop/iOSTutorials/MyScrumdinger/MyScrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "A090D694-EB1B-4631-AECF-CB0E35532043 - 9caea92dbce53353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScrumdinger.MeetingView.$scrumTimer.getter : SwiftUI.ObservedObject&lt;MyScrumdinger.ScrumTimer&gt;.Wrapper"
+                  moduleName = "MyScrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo/Desktop/iOSTutorials/MyScrumdinger/MyScrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "157">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
